@@ -1,0 +1,40 @@
+header{
+    padding-left: 69px;
+    padding-top: 40px;
+    margin: 0 auto;
+}
+nav{
+   display: inline;
+   font-size: 32px;
+   font-family: 'Explora', cursive;
+}
+ul{
+   display: inline;
+   
+}
+.logo1{
+    color: red;
+    margin-left: 312px;
+}
+.logo2{
+    color: darkgreen;
+    margin-left: 83px;
+}
+li{
+    display: inline;
+}
+section{
+    width: 1440px;
+    margin: 0 auto;
+    background-color: darkgreen;
+}
+
+
+
+
+
+
+
+
+
+
